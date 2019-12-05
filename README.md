@@ -1,5 +1,5 @@
 # Data_visualization
-![Data visualization](images/olympic.jpg)
+![Data visualization](images/olympic.jpeg)
 
 ## DATA VISUALIZATION 
 
