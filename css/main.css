@@ -1,4 +1,98 @@
 @charset "UTF-8";
 
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	background-image: 
+}
+
+/*--Header Styling starts--*/
+
+.logo img
+{
+	width: 200px;
+	margin-top: 15px;
+	height: auto;
+	justify-content: right;
+	margin-left: 3600px;
+}
+
+.title {
+	max-width: 1700px;
+	font-size: 25px;
+	margin: auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	color: darkred;
+
+}
+
+/*---Header stylingends---*/
+
+/*---Main tag styling starts---*/
+
+.firstPie{
+
+	max-width: 10px;
+	margin: auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	margin-top: 100px;
+	align-content: left;
+	margin-left: 1150px;
+}
+
+#pieText {
+	font-size: 20px;
+	color: white;
+	margin-left: 250px;
+	flex-direction: end;
+	margin-top: 5px;
+	text-align: center;
+	background-color: black;
+	padding-top: 20px;
+	padding-bottom: 5px;
+	border-radius: 20px;
+	max-width: 600px;
+	opacity: 0.850;
+}
+
+
+
+
+.icebar{
+
+	max-width: 10px;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	margin-top: -1250px;
+	align-content: left;
+	margin-left: 4050px;
+}
+
+#barText {
+	font-size: 20px;
+	color: white;
+	margin-left: 350px;
+	flex-direction: end;
+	margin-top: 5px;
+	text-align: center;
+	background-color: black;
+	padding: 2px;
+	padding-top: 20px;
+	padding-bottom: 5px;
+	border-radius: 20px;
+	max-width: 800px;
+	opacity: 0.850;
+	margin-left: 3040px;
+}
+
+
+
+
+
+
 
 
